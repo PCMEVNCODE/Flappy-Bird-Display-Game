@@ -10,7 +10,7 @@ Version: 1.0.0
 For Arduino Uno, Arduino Nano
 
 <----->
-###How to connect:
+### How to connect:
  |ILI9341|->|Arduino|
  | VCC   |->|  5V   | -WANRING : YOU MUST CONNECT PIN J1 UNDER DISPLAY-
  
