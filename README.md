@@ -1,5 +1,5 @@
 # Flappy-Bird-Display-Game
-<-Dev Community Project->
+# <-Dev Community Project->
 
 Project: Flappy Bird Display Game 
 
@@ -9,7 +9,8 @@ Version: 1.0.0
 
 For Arduino Uno, Arduino Nano
 
-### How to connect:
+# How to connect:
+### For Display ILI9341
  |ILI9341|->|Arduino|
  
  | VCC   |->|  5V   | -WANRING : YOU MUST CONNECT PIN J1 UNDER DISPLAY-
@@ -29,7 +30,7 @@ For Arduino Uno, Arduino Nano
  | LED   |->|  3.3V |
  
  | MISO  |->|  D12  | -Can do not connect to arduino-
----------------------------------------------------------------------\
+### For Conntrol Game, Audio
  |Button1|->|  D2   | For control bird
  
  |Button2|->|  D4   | For control audio
