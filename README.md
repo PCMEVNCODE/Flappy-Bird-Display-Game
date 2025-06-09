@@ -1,5 +1,5 @@
 # Flappy-Bird-Display-Game
-# <-Dev Community Project->
+
 
 Project: Flappy Bird Display Game 
 
